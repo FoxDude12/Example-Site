@@ -1,18 +1,16 @@
 @media screen and (min-width:600px) {
     #PageHeader {
-        Background-Color: black;
-        Color: white;
+        Background-Color: blue;
     }
     #PageBody {
         Background-Color: orange;
     }
 }
 @media screen and (max-width:599px) {
-    #PageBody {
-        Background-Color: blue;
-    }
     #PageHeader {
-        Background-Color: red;
-        float: left;
+        Background-Color: yellow;
+    }
+    #PageBody {
+        Background-Color: Green;
     }
 }
