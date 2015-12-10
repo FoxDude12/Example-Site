@@ -1,0 +1,13 @@
+@media screen and (min-width:600px) {
+    PageHeader {
+        Background-Color: red;
+        float: left;
+        Width: 300px;
+        Height: 300px;
+    }
+}
+@media screen and (max-width:599px) {
+    PageBody {
+        Background-Color: blue;
+    }
+}
